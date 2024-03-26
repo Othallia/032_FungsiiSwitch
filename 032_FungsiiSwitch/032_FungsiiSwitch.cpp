@@ -69,5 +69,7 @@ int main()
             cout << "Pilihan anda salah" << endl;
         }
 
-    }
+        system("pause");
+        system("CLS");
+    } while (pilihan != 5);
 }
